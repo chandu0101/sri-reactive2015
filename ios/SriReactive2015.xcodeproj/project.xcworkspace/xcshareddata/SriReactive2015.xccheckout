@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D1BBBF21-FD2A-4E7A-9E67-4F54F6ECAEAA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SriReactive2015</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9A409E623361921EAB4A496C602D4D7B2D2EA11B</key>
+		<string>https://github.com/chandu0101/sri-reactive2015</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios/SriReactive2015.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9A409E623361921EAB4A496C602D4D7B2D2EA11B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chandu0101/sri-reactive2015</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9A409E623361921EAB4A496C602D4D7B2D2EA11B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9A409E623361921EAB4A496C602D4D7B2D2EA11B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sri-reactive2015</string>
+		</dict>
+	</array>
+</dict>
+</plist>

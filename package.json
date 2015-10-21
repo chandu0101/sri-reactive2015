@@ -1,0 +1,36 @@
+{
+  "name": "sri-mobile-template",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh",
+    "relayquery": "webpack --config webpack_relay.config.js"
+  },
+  "devDependencies": {
+    "babel": "5.8.21",
+    "babel-loader": "5.3.2",
+    "babel-relay-plugin": "^0.3.0",
+    "compression-webpack-plugin": "^0.2.0",
+    "css-loader": "^0.14.5",
+    "file-loader": "^0.8.4",
+    "image-webpack-loader": "^1.6.1",
+    "imagemin": "^3.2.0",
+    "lodash": "^3.9.3",
+    "node-libs-browser": "^0.5.2",
+    "style-loader": "^0.12.3",
+    "url-loader": "^0.5.6",
+    "webpack": "^1.9.10",
+    "graphql": "^0.4.2",
+    "graphql-relay": "^0.3.1",
+    "webpack-dev-server": "^1.9.0"
+  },
+  "dependencies": {
+    "react-native": "0.11.4",
+    "react-native-accordion": "^0.2.2",
+    "react-native-browser-polyfill": "^0.1.1",
+    "react-native-icons": "^0.4.0",
+    "react-native-spinkit": "0.0.5",
+    "react-relay": "/Users/chandrasekharkode/Desktop/Kode/Programming/relay/react-native",
+    "reindex-js": "^0.3.0"
+  }
+}
