@@ -14,7 +14,6 @@ import scala.scalajs.js.{UndefOr => U}
 
 object ScheduleTabBar {
 
-
   @ScalaJSDefined
   class Component extends ReactComponent[Unit, Unit] {
     def render() = {
